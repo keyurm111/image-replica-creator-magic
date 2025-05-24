@@ -5,14 +5,13 @@ const Header = () => {
   return (
     <header className="w-full px-6 py-4">
       <nav className="flex items-center justify-between max-w-7xl mx-auto">
-        {/* Logo Section */}
+        {/* Logo Section - Maximized */}
         <div className="flex items-center">
           <img 
             src="/lovable-uploads/039771cb-4189-47d9-87af-d107b22cfac4.png" 
             alt="TRYZENIQ Logo" 
-            className="h-8 w-auto mr-3"
+            className="h-16 w-auto"
           />
-          <span className="text-white text-xl font-bold">TRYZENIQ</span>
         </div>
         
         {/* Navigation Links */}
