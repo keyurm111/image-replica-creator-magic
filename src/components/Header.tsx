@@ -10,7 +10,7 @@ const Header = () => {
           <img 
             src="/lovable-uploads/039771cb-4189-47d9-87af-d107b22cfac4.png" 
             alt="TRYZENIQ Logo" 
-            className="h-24 w-auto"
+            className="h-32 w-auto"
           />
         </div>
         
