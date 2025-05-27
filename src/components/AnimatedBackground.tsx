@@ -6,7 +6,7 @@ const AnimatedBackground = () => {
   return (
     <div className="fixed inset-0 z-0">
       <DotLottieReact
-        src="https://lottie.host/4db68bbd-31f6-4cd8-b6c8-2a2b8b6b7e6e/jRVSupHrkH.json"
+        src="https://lottie.host/1c96b6b6-734c-493e-9b29-d59644d05897/YQKMomollh.json"
         loop
         autoplay
         className="w-full h-full object-cover"
